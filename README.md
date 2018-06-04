@@ -6,7 +6,7 @@ gcc -Wall TD1.2-CCTABLEAU.c -o progexec
 
 # DEBUGGER
 gcc -Wall -g TD1.2-CCTABLEAU.c -o progexec
-gdb progexec
-break fonctionduprogramme
-run 
-next ....
+gdb progexec <br>
+break fonctionduprogramme <br>
+run <br>
+next .... <br>
