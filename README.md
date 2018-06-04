@@ -1,10 +1,10 @@
 # COURS_C
 
-# COMPILE
-gcc -Wall TD1.2-CCTABLEAU.c -o progexec
+## COMPILE
+gcc -Wall TD1.2-CCTABLEAU.c -o progexec <br>
 ./progexec
 
-# DEBUGGER
+## DEBUGGER
 gcc -Wall -g TD1.2-CCTABLEAU.c -o progexec
 gdb progexec <br>
 break fonctionduprogramme <br>
