@@ -5,7 +5,7 @@
 
 typedef struct Pile{
     int limite;
-    int tab[];
+    int *tab[];
 } pile;
 
 int traitementpile (int valeurdentree) {
