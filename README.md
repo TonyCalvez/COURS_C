@@ -10,3 +10,7 @@ gdb progexec <br>
 break fonctionduprogramme <br>
 run <br>
 next .... <br>
+
+
+## EXEMPLE
+https://c.developpez.com/cours/20-heures/?page=page_11
